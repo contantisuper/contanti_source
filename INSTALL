@@ -1,0 +1,9 @@
+Building Contanti
+
+See doc/readme-qt.rst for instructions on building Contanti QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Contanti.
+
+See doc/build-*.txt for instructions on building contantid,
+the intended-for-services, no-graphical-interface, reference
+implementation of Contanti.
